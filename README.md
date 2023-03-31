@@ -1,6 +1,6 @@
 
 
-# KWN model with external deformation considered via the amount of excess vacancies
+# KWN model with external deformation considered via the amount of excess vacancies - ciao
 
 KWN precipitation model including the effect of deformation via excess vacancy concentration calculation (phenomenological law for vacancy production). 
 
